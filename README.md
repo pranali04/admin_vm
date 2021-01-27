@@ -1,6 +1,8 @@
 # Title
 Virtual Machine Reservation System
 
+* Main project is in 'VM_Reservation' Directory
+
 ###Assumptions
 * Admin has list of VM data, VM ID is mandatory  and no VM is allocated to any of the user
 yet
